@@ -1,7 +1,7 @@
 <script setup>
 // import { RouterLink, RouterView } from 'vue-router'
 // import HelloWorld from './components/HelloWorld.vue'
-import Parent from './views/Parent.vue'
+
 </script>
 
 <template>
@@ -18,7 +18,7 @@ import Parent from './views/Parent.vue'
     </div>
   </header> -->
 
-  <Parent />
+  <!-- <Parent /> -->
 
   <RouterView />
 </template>
