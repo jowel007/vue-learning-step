@@ -1,5 +1,4 @@
 <template>
-    
     <ChildComponent :childname="parentname" :clickFunction="alertFunction"/>
 </template>
 <script>

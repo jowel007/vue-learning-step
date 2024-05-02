@@ -5,6 +5,8 @@
 <script>
 export default{
     name:'ChildComponent',
+
+    //dynamically var call
     props:{
         childname:String,
         clickFunction: Function
